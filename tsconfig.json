@@ -9,7 +9,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"],
-      "@middlewares/*": ["src/middlewares/*"]
+      "@middlewares/*": ["src/middlewares/*"],
+      "@modules/*": ["src/modules/*"]
     },
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true
